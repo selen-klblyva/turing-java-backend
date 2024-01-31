@@ -7,8 +7,8 @@ public class MethodsApp {
         Scanner scanner = new Scanner(System.in);
         int a = scanner.nextInt();
         int b = scanner.nextInt();
-        int a1 = scanner.nextInt();
-        int b1 = scanner.nextInt();
+        double a1 = scanner.nextDouble();
+        int b1 = scanner.nextDouble();
 
         int result = SumofNumbers(a, b);
         double result1 = SumofNumbers1(a1, b1);
