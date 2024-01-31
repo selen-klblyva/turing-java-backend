@@ -3,7 +3,7 @@ package az.edu.turing;
 import java.util.Scanner;
 public class SumOfNumbersApp {
     public static void main(String[] args){
-        Scanner scanner=new Scanner(System.in);
+      /*  Scanner scanner=new Scanner(System.in);
         int n=scanner.nextInt();
         double[] array=new double[n];
         int i;
@@ -15,6 +15,8 @@ public class SumOfNumbersApp {
             sum+=array[i];
         }
         System.out.printf("%.lf",sum);
+
+       */
 
     }
 }
